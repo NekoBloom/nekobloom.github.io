@@ -1,5 +1,5 @@
-<?php
-echo(rand() . "<br>");
-echo(rand() . "<br>");
-echo(rand(1,100));
-?>
+<html>
+  <script>
+<?php echo(rand(1,100)); ?>
+  </script>
+<html>
